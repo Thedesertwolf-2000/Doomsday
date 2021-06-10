@@ -1,0 +1,2 @@
+#namasthe
+print("new python")
